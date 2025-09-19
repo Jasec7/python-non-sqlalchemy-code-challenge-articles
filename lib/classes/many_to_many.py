@@ -168,4 +168,4 @@ class Magazine:
                 if count > best_count:
                     best_count = count
                     best_magazine = m
-                return best_magazine
+        return best_magazine
